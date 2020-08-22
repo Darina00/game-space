@@ -31,3 +31,4 @@ keydown.js        | Function that is triggered when you press the spacebar (astr
 objects.js        | All constants and variables of all objects
 
 **[Go to game](https://darina00.github.io/game-space/)**
+
